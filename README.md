@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I’m @SoftwareTheCore Also Known As Soft.<br>👀 I’m interested in Motorports, Technology, Photography<br>🌱 I’m currently learning PHP and Figma<br>⚡ Fun fact: I'd rather be interested in motorsport, than understanding other people's feelings, especially women. 
+You can call me Soft, but my name is @SoftwareTheCore. My path is motivated by my intense love of photography, technology, and motorsports. My creativity and curiosity are fueled by these hobbies, which never stop encouraging me to discover new things. I'm now putting a lot of effort into learning PHP and Figma so that I can develop my ability to make creative and significant projects. Outside of the technical sphere, I find the fast-paced world of motorsports, where accuracy and speed are intertwined, to be truly fascinating. You may find me using my camera to capture the world and try to create visually captivating narratives when I'm not engrossed in coding or creating. Let's get in touch and work together to realize innovative ideas!
 
 
 
