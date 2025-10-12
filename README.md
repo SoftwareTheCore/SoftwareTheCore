@@ -1,6 +1,6 @@
 # Hi there, I'm Fiero! 👋  
 
-<img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZGhvcHA3Mmk5dTg3N2QyajM0eTJ2eTBjMHA3cDBobDZvY2w5dThwNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l3q2JvztR3AjtBxQs/giphy.gif" width="400" alt="Coding GIF">
+<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExOG5iMmRpcGppeTRubnR3bXk5NXBzM3NpN3pzN3lrdXFhbm9uZjhsMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/EaEWuES5SDSpcnOlRt/giphy.gif">
 
 I'm a passionate **Software Developer** from Indonesia who loves building web applications, experimenting with new technologies, and learning every day.
 
