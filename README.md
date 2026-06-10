@@ -1,26 +1,87 @@
 # Hi there, I'm Fiero! 👋  
 
-<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExOG5iMmRpcGppeTRubnR3bXk5NXBzM3NpN3pzN3lrdXFhbm9uZjhsMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/EaEWuES5SDSpcnOlRt/giphy.gif">
+### Software Developer from Indonesia 🇮🇩
 
-I'm a passionate **Software Developer** from Indonesia who loves building web applications, experimenting with new technologies, and learning every day.
+I'm passionate about building web applications, learning new technologies, and creating solutions that solve real-world problems.
 
-## 🧠 About Me
-- 🌱 I’m currently learning **Laravel, and Python**
-- 💼 I’m working on personal and school projects to sharpen my skills
-- 🧩 I enjoy solving real-world problems through code
-- 📫 How to reach me: raffiero03@gmail.com
-- ⚡ Fun fact: I enjoy exploring UI/UX design and open-source projects
+---
 
-## 🛠️ Skills
-**Languages:** PHP, Python, HTML and CSS  
-**Frameworks:** Laravel, Bootstrap
-**Databases:** MySQL 
-**Tools:** Git, VS Code, Figma, Postman  
+## 🚀 About Me
 
-## 🚀 Projects
-Here are some of my favorite works:
-- [Dompet Digital App](https://github.com/SoftwareTheCore/DompetDigital) – Simple digital banking system built with Laravel   
+🌱 Currently learning:
+- Laravel
+- Python
+- JavaScript
 
-## 📊 GitHub Stats
-![Your Name's GitHub Stats](https://github-readme-stats.vercel.app/api?username=SoftwareTheCore&show_icons=true&theme=tokyonight)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SoftwareTheCore&layout=compact&theme=tokyonight)
+💻 Working on:
+- Personal Projects
+- School Projects
+- Web Development Experiments
+
+🎯 Interests:
+- UI/UX Design
+- Open Source Projects
+- Front-End 
+
+📫 Contact:
+- Email: <a href="mailto:raffiero03@gmail.com">raffiero03@gmail.com</a>
+
+⚡ Fun Fact:
+- I enjoy transforming ideas into useful web applications.
+
+---
+
+## 🛠️ Tech Stack
+
+### Languages
+<p>
+  <img src="https://skillicons.dev/icons?i=php,python,html,css" />
+</p>
+
+### Frameworks & Libraries
+<p>
+  <img src="https://skillicons.dev/icons?i=laravel,bootstrap" />
+</p>
+
+### Database
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql" />
+</p>
+
+### Tools
+<p>
+  <img src="https://skillicons.dev/icons?i=git,vscode,figma,postman" />
+</p>
+
+---
+
+## 📈 GitHub Stats
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight" />
+</p>
+
+---
+
+## 🔥 GitHub Streak
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=SoftwareTheCore&theme=tokyonight" />
+</p>
+
+---
+
+## 🌐 Connect With Me
+
+<p>
+  <a href="mailto:raffiero03@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail">
+  </a>
+</p>
+
+---
+
+### 💡 Favorite Quote
+
+> "A DNF is Always Better Than an DNS."
