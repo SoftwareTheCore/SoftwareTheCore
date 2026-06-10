@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://i.pinimg.com/originals/e5/f2/e7/e5f2e7713193093f68925f1b3fd9bb1a.gif" width="600"/>
+</p>
+
 # Hi there, I'm Fiero! 👋  
 
 ### Software Developer from Indonesia 🇮🇩
@@ -35,7 +39,7 @@ I'm passionate about building web applications, learning new technologies, and c
 
 ### Languages
 <p>
-  <img src="https://skillicons.dev/icons?i=php,python,html,css" />
+  <img src="https://skillicons.dev/icons?i=php,py,js,html,css" />
 </p>
 
 ### Frameworks & Libraries
@@ -58,8 +62,8 @@ I'm passionate about building web applications, learning new technologies, and c
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SoftwareTheCore&show_icons=true&theme=tokyonight" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SoftwareTheCore&layout=compact&theme=tokyonight" />
 </p>
 
 ---
