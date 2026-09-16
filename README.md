@@ -2,90 +2,20 @@
   <img src="https://i.pinimg.com/originals/e5/f2/e7/e5f2e7713193093f68925f1b3fd9bb1a.gif" width="600"/>
 </p>
 
-# Hi there, I'm Fiero! 👋  
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/raffiero/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ry.musyaffa@gmail.com) 
 
-### Software Developer from Indonesia 🇮🇩
+# 💻 Tech Stack:
+![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Vue.js](https://img.shields.io/badge/vue.js-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=SoftwareTheCore&theme=dark&hide_border=true&include_all_commits=true&count_private=true)<br/>
+![](https://streak-stats.demolab.com/?user=SoftwareTheCore&theme=dark&hide_border=true)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=SoftwareTheCore&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
-I'm passionate about building web applications, learning new technologies, and creating solutions that solve real-world problems.
-
----
-
-## 🚀 About Me
-
-🌱 Currently learning:
-- Laravel
-- Python
-- JavaScript
-
-💻 Working on:
-- Personal Projects
-- School Projects
-- Web Development Experiments
-
-🎯 Interests:
-- UI/UX Design
-- Open Source Projects
-- Front-End 
-
-📫 Contact:
-- Email: <a href="mailto:raffiero03@gmail.com">raffiero03@gmail.com</a>
-
-⚡ Fun Fact:
-- I enjoy transforming ideas into useful web applications.
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
+[![](https://komarev.com/ghpvc/?username=SoftwareTheCore&icon=0&color=0)](https://visitcount.itsvg.in)
 
-## 🛠️ Tech Stack
-
-### Languages
-<p>
-  <img src="https://skillicons.dev/icons?i=php,py,js,html,css" />
-</p>
-
-### Frameworks & Libraries
-<p>
-  <img src="https://skillicons.dev/icons?i=laravel,bootstrap" />
-</p>
-
-### Database
-<p>
-  <img src="https://skillicons.dev/icons?i=mysql" />
-</p>
-
-### Tools
-<p>
-  <img src="https://skillicons.dev/icons?i=git,vscode,figma,postman" />
-</p>
-
----
-
-## 📈 GitHub Stats
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SoftwareTheCore&show_icons=true&theme=tokyonight" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SoftwareTheCore&layout=compact&theme=tokyonight" />
-</p>
-
----
-
-## 🔥 GitHub Streak
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=SoftwareTheCore&theme=tokyonight" />
-</p>
-
----
-
-## 🌐 Connect With Me
-
-<p>
-  <a href="mailto:raffiero03@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail">
-  </a>
-</p>
-
----
-
-### 💡 Favorite Quote
-
-> "A DNF is Always Better Than an DNS."
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
