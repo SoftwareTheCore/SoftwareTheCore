@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="880" height="352" viewBox="0 0 880 352" role="img" aria-label="Terminal: softwarethecore@github, neofetch">
+<style>text{font-family:'Fira Code','JetBrains Mono',ui-monospace,SFMono-Regular,Menlo,Consolas,'DejaVu Sans Mono',monospace;font-size:15px;white-space:pre}.u{fill:#7EE787}.p{fill:#5CC8FF}.t{fill:#CFE0FF}.c{fill:#8EA3C7}.tux{fill:#5CC8FF}@keyframes b{50%{opacity:0}}.cur{animation:b 1s steps(1) infinite}</style>
+<rect width="880" height="352" rx="10" fill="#0A1128" stroke="#1f2a52"/>
+<path d="M0 10a10 10 0 0 1 10-10h860a10 10 0 0 1 10 10v30H0z" fill="#191970"/>
+<circle cx="24" cy="20" r="6.5" fill="#FF5F57"/><circle cx="46" cy="20" r="6.5" fill="#FEBC2E"/><circle cx="68" cy="20" r="6.5" fill="#28C840"/>
+<text x="92" y="25" class="t" style="font-size:13px">softwarethecore@github:~</text>
+<text x="24" y="78"><tspan class="u">softwarethecore@github</tspan><tspan class="t">:</tspan><tspan class="p">~</tspan><tspan class="t">$ </tspan><tspan class="t">neofetch</tspan></text>
+<rect x="24" y="60" width="760" height="26" fill="#0A1128"><animate attributeName="x" from="24" to="784" begin="0.4s" dur="1.3s" fill="freeze"/></rect>
+<g opacity="0">
+<animate attributeName="opacity" from="0" to="1" begin="1.9s" dur="0.5s" fill="freeze"/>
+<g transform="translate(0,16)"><ellipse cx="84" cy="185" rx="12" ry="40" fill="#2A55D0" transform="rotate(20 84 185)"/><ellipse cx="196" cy="185" rx="12" ry="40" fill="#2A55D0" transform="rotate(-20 196 185)"/><ellipse cx="118" cy="254" rx="19" ry="7" fill="#FFC857"/><ellipse cx="162" cy="254" rx="19" ry="7" fill="#FFC857"/><ellipse cx="140" cy="185" rx="62" ry="72" fill="#3B6EF5"/><circle cx="140" cy="132" r="38" fill="#3B6EF5"/><ellipse cx="140" cy="198" rx="40" ry="52" fill="#CFE0FF"/><ellipse cx="140" cy="136" rx="26" ry="24" fill="#CFE0FF"/><circle cx="129" cy="128" r="4.5" fill="#0A1128"/><circle cx="151" cy="128" r="4.5" fill="#0A1128"/><path d="M130 140h20l-10 13z" fill="#FFC857"/></g>
+<text x="300" y="122"><tspan class="u">softwarethecore</tspan><tspan class="t">@</tspan><tspan class="u">github</tspan></text>
+<text x="300" y="142" class="c">----------------------</text>
+<text x="300" y="162" class="p">OS</text><text x="392" y="162" class="t">: GitHub</text>
+<text x="300" y="182" class="p">Shell</text><text x="392" y="182" class="t">: bash</text>
+<text x="300" y="202" class="p">Backend</text><text x="392" y="202" class="t">: Laravel · PHP · Python</text>
+<text x="300" y="222" class="p">Database</text><text x="392" y="222" class="t">: MySQL</text>
+<text x="300" y="242" class="p">Frontend</text><text x="392" y="242" class="t">: Vue.js</text>
+<text x="300" y="262" class="p">Design</text><text x="392" y="262" class="t">: Figma · Canva</text>
+<text x="300" y="282" class="p">Deploy</text><text x="392" y="282" class="t">: Vercel</text>
+</g>
+<g opacity="0">
+<animate attributeName="opacity" from="0" to="1" begin="2.5s" dur="0.1s" fill="freeze"/>
+<text x="24" y="326"><tspan class="u">softwarethecore@github</tspan><tspan class="t">:</tspan><tspan class="p">~</tspan><tspan class="t">$ </tspan><tspan class="t cur">█</tspan></text>
+</g>
+</svg>
