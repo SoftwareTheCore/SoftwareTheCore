@@ -1,47 +1,21 @@
-<!-- Tema: terminal Linux · palet midnight blue: malam #0A1128 · midnight #191970 · royal #3B6EF5 · langit #5CC8FF · prompt #7EE787 -->
+<!-- Tema terminal Linux · palet midnight blue. Bagian terminal memakai file di folder assets/ -->
 
-<!-- ═════════════ GIF ASLI ═════════════ -->
 <p align="center">
   <img src="https://i.pinimg.com/originals/e5/f2/e7/e5f2e7713193093f68925f1b3fd9bb1a.gif" width="600"/>
 </p>
 
-<!-- ═════════════ JENDELA TERMINAL ═════════════ -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&height=42&color=191970&text=%E2%97%8F%20%E2%97%8F%20%E2%97%8F%20%20softwarethecore%40github%3A~&fontColor=CFE0FF&fontSize=15&fontAlign=26&fontAlignY=52" width="100%" alt="Terminal title bar"/>
+  <img src="assets/terminal.svg" width="100%" alt="Terminal softwarethecore@github"/>
 </p>
 
-<p>
-  <a href="https://github.com/SoftwareTheCore">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=2800&pause=900&color=7EE787&vCenter=true&repeat=true&width=640&height=40&lines=%24+whoami;SoftwareTheCore;%24+cat+stack.txt;Laravel+%C2%B7+PHP+%C2%B7+Vue.js+%C2%B7+Python;%24+neofetch" alt="Terminal typing"/>
-  </a>
-</p>
-
-```console
-        .--.        softwarethecore@github
-       |o_o |       ----------------------
-       |:_/ |       OS       : GitHub
-      //   \ \      Shell    : bash
-     (|     | )     Backend  : Laravel · PHP · Python
-    /'\_   _/`\     Database : MySQL
-    \___)=(___/     Frontend : Vue.js
-                    Design   : Figma · Canva
-                    Deploy   : Vercel
-```
-
-<!-- ═════════════ SOCIALS ═════════════ -->
-```console
-softwarethecore@github:~$ cat socials.txt   # 🌐 Socials
-```
+<p><img src="assets/cmd-socials.svg" width="100%" alt="cat socials.txt"/></p>
 
 <p>
   <a href="https://www.linkedin.com/in/raffiero/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="mailto:ry.musyaffa@gmail.com"><img src="https://img.shields.io/badge/Email-3B6EF5?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
 </p>
 
-<!-- ═════════════ TECH STACK ═════════════ -->
-```console
-softwarethecore@github:~$ cat stack.txt   # 💻 Tech Stack
-```
+<p><img src="assets/cmd-stack.svg" width="100%" alt="cat stack.txt"/></p>
 
 <p>
   <a href="https://skillicons.dev">
@@ -57,10 +31,7 @@ softwarethecore@github:~$ cat stack.txt   # 💻 Tech Stack
 
 </details>
 
-<!-- ═════════════ GITHUB STATS ═════════════ -->
-```console
-softwarethecore@github:~$ github-stats --user SoftwareTheCore   # 📊 GitHub Stats
-```
+<p><img src="assets/cmd-stats.svg" width="100%" alt="github-stats --user SoftwareTheCore"/></p>
 
 <p align="center">
   <img height="170" src="https://github-readme-stats.shion.dev/api?username=SoftwareTheCore&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&bg_color=0A1128&title_color=7EE787&text_color=CFE0FF&icon_color=5CC8FF&ring_color=3B6EF5" alt="GitHub Stats"/>
@@ -91,20 +62,13 @@ softwarethecore@github:~$ github-stats --user SoftwareTheCore   # 📊 GitHub St
 
 </details>
 
-<!-- ═════════════ QUOTE ═════════════ -->
-```console
-softwarethecore@github:~$ fortune   # ✍️ Random Dev Quote
-```
+<p><img src="assets/cmd-fortune.svg" width="100%" alt="fortune"/></p>
 
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random dev quote"/>
 </p>
 
-<!-- ═════════════ KELUAR ═════════════ -->
-```console
-softwarethecore@github:~$ exit
-logout
-```
+<p><img src="assets/cmd-exit.svg" width="100%" alt="exit"/></p>
 
 <p>
   <a href="https://visitcount.itsvg.in">
